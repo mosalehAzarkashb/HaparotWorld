@@ -1,4 +1,4 @@
-# HaparotWorld
+# HaparotWorld(HW)
 simulation of a binary(dead, alive) world.
 
 # How to Run:
